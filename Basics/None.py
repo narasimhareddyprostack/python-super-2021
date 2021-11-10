@@ -1,4 +1,4 @@
-def add():
-    a=10
-    
-print(add())
+a = None
+b = None
+print(type(a))
+print(a)
