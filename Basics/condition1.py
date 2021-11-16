@@ -1,5 +1,5 @@
 sal = 72000
-if (sal >74999):
+if sal >74999:
     print("Eligible for Marriage")
     print("Enjoy Buddy")
 else:
