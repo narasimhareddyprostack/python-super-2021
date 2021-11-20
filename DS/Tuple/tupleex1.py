@@ -1,4 +1,4 @@
-t1 = (10,20,30)
-#immutable
-t1.append(40)
-print(t1)
+def add(a,b):
+    print(a+b)
+
+add(10,20)
