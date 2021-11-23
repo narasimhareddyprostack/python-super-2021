@@ -2,7 +2,6 @@
 #Invoking a fun, reciving rest of values -
 
 def sum(*varg):
-    
     total = 0
     for value in varg:
         total = total +value
