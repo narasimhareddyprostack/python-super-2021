@@ -2,5 +2,5 @@ try:
     print("one")
     print(10/0)
     print("Two")
-except:
+except :
     print("Please Enter Data")

@@ -1,4 +1,4 @@
-#import Pack1.Bank
-from Pack1.Bank import getBankDetails
+JavaScript Keywords
+Keywords are reserved words that are part of the syntax in the programming language. For example,
 
-getBankDetails()
+const message= 'Good Morning';
