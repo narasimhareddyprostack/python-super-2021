@@ -1,6 +1,6 @@
 class Bank:
     
-    def info():
+    def info(self):
         print("Just Testing")
 
 
